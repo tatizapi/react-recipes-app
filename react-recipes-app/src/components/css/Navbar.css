@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+.navbar {
+    background-color: #c26d12;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-home-logo {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-home-title {
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.navbar-food-categories ul {
+    float: right;
+}
+
+.navbar-food-categories ul li {
+    display: inline;
+    margin-right: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}

@@ -17,7 +17,7 @@ const Navbar = () => {
                     <li><a href='/'>Soups</a></li>
                     <li><a href='/'>Meat</a></li>
                     <li><a href='/'>Pasta</a></li>
-                    <li><a href='/'>Desert</a></li>
+                    <li><a href='/'>Deserts</a></li>
                 </ul>
             </div>
         </div>

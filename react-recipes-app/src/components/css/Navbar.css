@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
 .navbar {
-    background-color: rgb(194, 109, 18);
-    height: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 80px;
+    background-color: rgb(194, 109, 18);
 }
 
 .navbar-home-logo {
@@ -18,10 +18,6 @@
     float: left;
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
-}
-
-.navbar-food-categories ul {
-    float: right;
 }
 
 .navbar-food-categories ul li {
